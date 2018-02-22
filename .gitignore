@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+NGC2180/
+Muniwin_Projects/
 __pycache__/
 *.py[cod]
 *$py.class
