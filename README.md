@@ -28,7 +28,7 @@ This Project is part of the Astronomy Research Class at Phillips Academy Andover
 
 * **Determine the Period of Variable Stars:** For each star in the database, VSPy will calculate the periodogram and find the most significant period.
 
-* **Identify and Classify Variable Stars: **This project uses feature extraction and machine learning to classify the light curves as variable and type of variability.
+* **Identify and Classify Variable Stars:** This project uses feature extraction and machine learning to classify the light curves as variable and type of variability.
 
 * **Compile data with Online DBs:** VSPy connects your data to data from Catalina Sky Survey, SIMBAD, and more to add more data to light curves.
 
